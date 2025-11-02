@@ -19,22 +19,23 @@ Uses dialog for a terminal GUI menu if available, otherwise falls back to text m
 
 
 
-### How to use !
-# 1. In Termux
+# How to use !
+
+### 1. In Termux
 ```
 cd install-termux-tools-ultimate.sh
 ```
-# 2. Make it executable and run:
+### 2. Make it executable and run:
 ```
 chmod +x install-termux-tools-ultimate.sh
 ```
-# 3. and Last run.
+### 3. and Last run.
 ```
 bash install-termux-tools-ultimate.sh
 
 ```
 
-### ⚠️ Warnings & Tips
+# ⚠️ Warnings & Tips
 
 Metasploit and some tools are large — ensure >2–4 GB free.</br>
 
