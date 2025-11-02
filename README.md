@@ -15,7 +15,7 @@ Uses fallbacks (git / pip / go installs) if packages aren’t available in repo.
 Uses dialog for a terminal GUI menu if available, otherwise falls back to text menu.</br>
 
 
-># ⚠️ Warning: Pentesting tools are powerful. Use them only on systems you own or have explicit permission to test. I won’t support illegal activity.</br>
+># ⚠️ Warning: <div style="color: red;">Pentesting tools are powerful. Use them only on systems you own or have explicit permission to test. I won’t support illegal activity.</div></br>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="120">
   <rect width="100%" height="100%" fill="#c62828" rx="8"/>
