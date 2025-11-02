@@ -20,9 +20,12 @@ Uses dialog for a terminal GUI menu if available, otherwise falls back to text m
 
 # How to use !
 
-### 1. In Termux
+### 1. In Termux and Clone / Download file
 ```
-cd install-termux-tools-ultimate.sh
+git clone https://github.com/prashantkumarjoyal/Termux-Advance-Tools.git
+```
+```
+cd install-Termux-Advance-Tools
 ```
 ### 2. Make it executable and run:
 ```
