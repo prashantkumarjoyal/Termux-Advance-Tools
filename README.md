@@ -17,6 +17,14 @@ Uses dialog for a terminal GUI menu if available, otherwise falls back to text m
 
 ># ⚠️ Warning: Pentesting tools are powerful. Use them only on systems you own or have explicit permission to test. I won’t support illegal activity.</br>
 
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="120">
+  <rect width="100%" height="100%" fill="#c62828" rx="8"/>
+  <text x="50%" y="56%" font-family="Arial, Helvetica, sans-serif"
+        font-size="28" fill="#fff" text-anchor="middle" dominant-baseline="middle">
+    ⚠️ WARNING — Pentesting tools are powerful. Use them only on systems you own or have explicit permission to test. I won’t support illegal activity.
+  </text>
+</svg>
+
 
 
 # How to use !
