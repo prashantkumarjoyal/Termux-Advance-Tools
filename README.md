@@ -15,7 +15,8 @@ Uses fallbacks (git / pip / go installs) if packages aren’t available in repo.
 Uses dialog for a terminal GUI menu if available, otherwise falls back to text menu.</br>
 
 
-> ⚠️ Warning: Pentesting tools are powerful. Use them only on systems you own or have explicit permission to test. I won’t support illegal activity.</br>
+># ⚠️ Warning:
+Pentesting tools are powerful. Use them only on systems you own or have explicit permission to test. I won’t support illegal activity.</br>
 
 
 
@@ -35,7 +36,7 @@ bash install-termux-tools-ultimate.sh
 
 ```
 
-# ⚠️ Warnings & Tips
+### ⚠️ Warnings & Tips
 
 Metasploit and some tools are large — ensure >2–4 GB free.</br>
 
