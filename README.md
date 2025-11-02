@@ -16,7 +16,7 @@ Uses dialog for a terminal GUI menu if available, otherwise falls back to text m
 
 
 ># ⚠️ Warning:
-Pentesting tools are powerful. Use them only on systems you own or have explicit permission to test. I won’t support illegal activity.</br>
+>Pentesting tools are powerful. Use them only on systems you own or have explicit permission to test. I won’t support illegal activity.</br>
 
 
 
